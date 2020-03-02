@@ -1,0 +1,7 @@
+variable "compartment_ocid" {
+  default = "ocid1.compartment.oc1..aaaaaaaanooikw5bl62m5s5cfwll2rlbacysyx5dqlne5p7z2gsf5usz5xwa"
+}
+
+variable "ssh_authorized_keys" {
+  default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDlrpLIvf/UKppFvKjdkSg8k4IO8fnH076WJK4M+Kmk0aHmIx1TddR6HLc/olDd+ZkAjKm3oL3jQvxJeXSsR8FpzkcUtegrJiW5/95LqM0mBfjxZPiXDbNLD1JUJSkTiIURbUHHKKchT4J+nVex4D6VekTZhLpxBjjMhA377OxDZSsHVL3EniMQx/Taemhl6ocfCcW2Vyj+515H5VEcdJTWvQPLPSpY1KHRu3MH2mufQMGjDva1e2DcD9sFT7Rx2CfsgIp5eugkzOT6RiGRWpw4bH0LG2R0nqB0QuE4SrA0LU/gqqfcucI+WLAJjF4nGkwFKmWKAYDjbrC3Ky4eWd+T"
+}
